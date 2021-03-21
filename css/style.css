@@ -1,0 +1,67 @@
+/*==============Header container starts================================*/
+.clear-fix{
+	clear: both;
+}
+.container{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2%;
+	width:  88%;
+}
+.drop-down-submenu{
+	position: relative;
+}
+.inner-menu{
+	position: absolute;
+	left: 102%;
+    top: -29%;
+}
+.navbar-collapse{
+	background: #CCEEFC;
+	height:  32px;
+}
+.navbar{
+	border: none;
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: #224365;
+}
+.navbar-inverse .navbar-nav>li>a:hover{
+	color: #224365;
+	font-weight: bold;
+}
+.dropdown-menu>li>a:hover{
+	background: #224365;
+	color: #fff;
+	font-weight: bold;
+}
+/*==============Header container ends================================*/
+
+.middle-container{
+	margin-left: auto;
+	margin-right: auto;
+	width:  86%;
+}
+/*==============Home page starts================================*/
+.askon-intro{
+	width: 100%;
+    box-shadow: 3px 2px 14px #888888;
+}
+.askon-intro p{
+	font-family:  Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+	font-size: 19px;
+}
+.askon-sections{
+	float: left;
+    margin-top: 2%;
+    width: 32%;
+    height: 250px;
+    box-shadow: 3px 2px 14px #888888;
+}
+.empty-space{
+	float: left;
+	margin-top: 2%;
+    width: 2%;
+    height: 250px;
+}
+/*==============Home page ends================================*/
